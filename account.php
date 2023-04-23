@@ -29,14 +29,14 @@
     transform: translateY(5rem)
 }
 .cover {
-    background-image: url('images/photo-profile-background.avif');
+    background-image: url('images/background.jpg');
     background-size: cover;
     background-repeat: no-repeat
 }
 
 body {
     background: #654ea3;
-    background: linear-gradient(to right, #e96443, #904e95);
+    background: linear-gradient(to right, #e96443, #cbd41e);
     min-height: 100vh;
     overflow-x: hidden
 }</style>
@@ -48,7 +48,7 @@ body {
         <div class="bg-white shadow rounded overflow-hidden">
             <div class="px-4 pt-0 pb-4 cover">
                 <div class="media align-items-end profile-head">
-                    <div class="profile mr-3"><img src="images/photo-profile.avif" alt="..." width="150" class="rounded mb-2 img-thumbnail">
+                    <div class="profile mr-3"><img src="images/photo-profile.png" alt="..." width="150" class="rounded mb-2 img-thumbnail">
 
                         <a href="?logout" class="btn btn-outline-dark btn-sm btn-block">Log Out</a>
 
@@ -79,11 +79,11 @@ body {
             </div>
 
             <div class="px-4 py-3">
-                <h5 class="mb-0">Expertise </h5>
+                <h5 class="mb-0">Details </h5>
                 <div class="p-4 rounded shadow-sm bg-light">
-                    <p class="font-italic mb-0">Full-stack Web Developer</p>
-                    <p class="font-italic mb-0">Mobile App Developer</p>
-                    <p class="font-italic mb-0">Photographer/Videographer</p>
+                    <p class="font-italic mb-0">Information Technology student</p>
+                    <p class="font-italic mb-0">From Gasan, Marinduque</p>
+                    <p class="font-italic mb-0">Aspiring Photographer</p>
                 </div>
             </div>
 
