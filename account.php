@@ -38,8 +38,12 @@ body {
     background: #654ea3;
     background: linear-gradient(to right, #e96443, #cbd41e);
     min-height: 100vh;
-    overflow-x: hidden
-}</style>
+    overflow-x: hidden;
+    font-family: century gothic
+
+}
+
+</style>
                                 </head>
                                 <body oncontextmenu='return false' class='snippet-body'>
                                 <div class="row py-5 px-4">
@@ -70,10 +74,10 @@ body {
                         <h5 class="font-weight-bold mb-0 d-block">21,150</h5><small class="text-muted"> <i class="fas fa-image mr-1"></i>Photos</small>
                     </li>
                     <li class="list-inline-item">
-                        <h5 class="font-weight-bold mb-0 d-block">756,450</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Followers</small>
+                        <h5 class="font-weight-bold mb-0 d-block">756,458</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Followers</small>
                     </li>
                     <li class="list-inline-item">
-                        <h5 class="font-weight-bold mb-0 d-block">340</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Following</small>
+                        <h5 class="font-weight-bold mb-0 d-block">99</h5><small class="text-muted"> <i class="fas fa-user mr-1"></i>Following</small>
                     </li>
                 </ul>
             </div>
